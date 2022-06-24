@@ -18,9 +18,3 @@ npm run dev
 
 
 
-截图：
-
-![image-20220624204510153](D:\codespaces\front-end-demo\vueDemo\todolist\README.assets\image-20220624204510153.png)
-
-
-
